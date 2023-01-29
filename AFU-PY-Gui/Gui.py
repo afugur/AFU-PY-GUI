@@ -904,7 +904,7 @@ class mainApplication(tk.Tk):
         for i,name in zip(self.event_list,self.event_name):
             
         
-            url = "https://www.strongmotioncenter.org/wserv/records/query?eventid={0}&stcode={1}&orderby=epidist-asc&rettype=dataset&download=P&email=afurkanugur05@gmail.com&groupby=station&nodata=404".format(i,station_net)
+            url = "https://www.strongmotioncenter.org/wserv/records/query?eventid={0}&stcode={1}&orderby=epidist-asc&rettype=dataset&download=P&email=&groupby=station&nodata=404".format(i,station_net)
             
             r = requests.get(url, stream=True)
             save_path = self.download_file +"/" + str(name) + "_" + str(i) +".zip"
