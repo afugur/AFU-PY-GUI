@@ -1,0 +1,508 @@
+
+..................TÜRKÝYE VE YAKIN ÇEVRESÝNDEKÝ SON DEPREMLER....................
+.....BÖLGESEL DEPREM-TSUNAMÝ ÝZLEME VE DEÐERLENDÝRME MERKEZÝ HIZLI ÇÖZÜMLERÝ.....
+......(YAPAY SARSINTI ANALÝZÝ YAPILMAMIÞTIR) Son 500 deprem listelenmiþtir......
+                                                        Büyüklük
+Tarih      Saat      Enlem(N)  Boylam(E) Derinlik(km)  MD   ML   Mw    Yer                                             Çözüm Niteliði
+---------- --------  --------  -------   ----------    ------------    --------------                                  --------------
+2023.01.29 19:38:45  38.5102   45.0888        8.3      -.-  4.0  4.3   IRAN                                              Ýlksel
+2023.01.29 19:12:36  35.7213   35.7078       12.7      -.-  4.3  4.2   AKDENIZ                                           Ýlksel
+2023.01.29 18:36:59  38.4092   45.2235       14.7      -.-  2.8  2.8   IRAN                                              Ýlksel
+2023.01.29 18:13:21  38.4207   45.1358        5.2      -.-  4.5  4.8   IRAN                                              Ýlksel
+2023.01.29 17:41:12  38.5977   44.8668        5.0      -.-  4.5  4.8   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.29 15:34:27  41.1905   24.8763        5.6      -.-  2.2  -.-   YUNANISTAN                                        Ýlksel
+2023.01.29 14:05:05  38.7238   44.7607        5.0      -.-  2.6  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.29 13:22:36  38.5398   26.3985       18.9      -.-  2.4  -.-   KUCUKBAHCE-KARABURUN (IZMIR)                      Ýlksel
+2023.01.29 12:07:24  37.4215   31.9858        8.2      -.-  2.4  -.-   KURAN-SEYDISEHIR (KONYA)                          Ýlksel
+2023.01.29 11:42:48  37.4302   31.9827        5.4      -.-  2.4  -.-   KURAN-SEYDISEHIR (KONYA)                          Ýlksel
+2023.01.29 11:21:11  39.4642   27.8270        7.2      -.-  2.0  -.-   TASPINAR-(BALIKESIR)                              Ýlksel
+2023.01.29 11:04:26  40.5793   27.2430       11.9      -.-  3.1  -.-   KARABIGA ACIKLARI-CANAKKALE (MARMARA DENIZI)      Ýlksel
+2023.01.29 09:08:26  36.9530   27.5743        5.3      -.-  1.9  -.-   GOKOVA KORFEZI (AKDENIZ)                          Ýlksel
+2023.01.29 07:57:59  40.4107   28.8685       10.2      -.-  2.0  -.-   GEMLIK KORFEZI (MARMARA DENIZI)                   Ýlksel
+2023.01.29 07:22:48  37.1740   35.9140       23.7      -.-  1.6  -.-   DIKILITAS-CEYHAN (ADANA)                          Ýlksel
+2023.01.29 06:48:05  38.3830   45.1705        3.5      -.-  3.9  -.-   IRAN                                              Ýlksel
+2023.01.29 06:18:05  38.3895   45.1333       11.9      -.-  2.8  -.-   IRAN                                              Ýlksel
+2023.01.29 06:09:08  37.0348   28.4002        5.0      -.-  1.3  -.-   ATAKOY-ULA (MUGLA)                                Ýlksel
+2023.01.29 05:32:32  38.4517   45.1463       15.4      -.-  3.4  -.-   IRAN                                              Ýlksel
+2023.01.29 04:16:00  39.1182   27.8043        8.0      -.-  1.8  -.-   KARAKURT-KIRKAGAC (MANISA)                        Ýlksel
+2023.01.29 03:45:44  39.3492   26.2688       11.3      -.-  1.7  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.29 03:37:40  38.4378   45.1193       14.8      -.-  2.9  -.-   IRAN                                              Ýlksel
+2023.01.29 03:37:25  39.3160   26.2928       15.7      -.-  1.4  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.29 02:53:48  38.5743   44.8647        5.0      -.-  2.3  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.29 02:43:17  38.3765   27.2247        7.4      -.-  1.6  -.-   GOKDERE-BORNOVA (IZMIR)                           Ýlksel
+2023.01.29 02:34:27  38.5345   44.8948        5.0      -.-  2.9  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.29 02:27:20  38.3430   45.0723       14.2      -.-  3.6  -.-   IRAN                                              Ýlksel
+2023.01.29 02:11:19  38.3358   45.1962       13.1      -.-  2.6  -.-   IRAN                                              Ýlksel
+2023.01.29 01:49:21  39.5038   26.0598       18.5      -.-  1.6  -.-   BABAKALE-AYVACIK (CANAKKALE)                      Ýlksel
+2023.01.29 01:28:13  38.5340   44.9412        5.0      -.-  3.6  -.-   IRAN                                              Ýlksel
+2023.01.29 01:22:53  36.4255   27.6237       23.4      -.-  1.9  -.-   ONIKI ADALAR (AKDENIZ)                            Ýlksel
+2023.01.29 01:22:26  35.9003   25.3470      129.2      -.-  3.1  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.29 01:14:14  38.2833   38.7978        5.8      -.-  1.5  -.-   KARSIYAKA-PUTURGE (MALATYA)                       Ýlksel
+2023.01.29 00:59:20  36.1425   28.7195       30.0      -.-  2.6  -.-   AKDENIZ                                           Ýlksel
+2023.01.29 00:40:48  37.0858   28.3765        8.0      -.-  2.8  -.-   KIZILAGAC-ULA (MUGLA)                             Ýlksel
+2023.01.28 23:57:34  39.0730   27.2057        5.2      -.-  1.6  -.-   SINDEL-BERGAMA (IZMIR)                            Ýlksel
+2023.01.28 23:30:14  38.3902   45.3167       28.1      -.-  3.0  -.-   IRAN                                              Ýlksel
+2023.01.28 23:27:24  39.3705   26.2440       10.9      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.28 23:09:54  38.4055   45.2293        1.6      -.-  4.3  -.-   IRAN                                              Ýlksel
+2023.01.28 22:56:51  35.6767   27.1153        5.0      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.28 22:55:24  38.5928   45.0918        9.3      -.-  2.3  -.-   IRAN                                              Ýlksel
+2023.01.28 22:54:19  38.4192   44.7642        8.6      -.-  2.6  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.28 22:47:54  38.5768   44.8088        5.0      -.-  3.1  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.28 22:35:15  39.3390   26.2157       14.5      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.28 22:03:22  38.4837   45.0277       15.1      -.-  3.0  -.-   IRAN                                              Ýlksel
+2023.01.28 21:49:54  38.4518   45.1385        6.9      -.-  3.1  -.-   IRAN                                              Ýlksel
+2023.01.28 21:42:42  38.6083   44.4493        9.0      -.-  2.6  -.-   KURUCAN-SARAY (VAN)                               Ýlksel
+2023.01.28 21:40:49  38.4128   45.1557        9.1      -.-  3.0  -.-   IRAN                                              Ýlksel
+2023.01.28 21:14:40  38.3003   45.3360        5.0      -.-  5.9  6.1   IRAN                                              Ýlksel
+2023.01.28 20:59:39  38.8360   26.7495       14.3      -.-  2.2  -.-   CANDARLI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.28 20:54:02  36.2222   29.7848        5.0      -.-  1.4  -.-   SAHILKILINCLI-KAS (ANTALYA)                       Ýlksel
+2023.01.28 20:36:10  37.6817   31.2860       17.0      -.-  1.8  -.-   ELDERE-AKSU (ISPARTA)                             Ýlksel
+2023.01.28 18:58:12  39.6548   23.4098       16.8      -.-  3.7  3.7   YUNANISTAN                                        Ýlksel
+2023.01.28 18:39:16  38.3983   28.0747        6.8      -.-  2.3  -.-   BAHCECIK-SALIHLI (MANISA)                         Ýlksel
+2023.01.28 16:49:56  39.3790   26.2333       10.8      -.-  3.0  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.28 16:36:27  40.0818   24.1413        7.1      -.-  2.5  -.-   YUNANISTAN                                        Ýlksel
+2023.01.28 14:44:18  36.4487   25.6913       11.8      -.-  3.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.28 14:43:40  37.1162   28.4668       11.1      -.-  2.1  -.-   ARMUTCUK-ULA (MUGLA)                              Ýlksel
+2023.01.28 13:12:37  40.8005   31.1235        6.5      -.-  2.1  -.-   BATAKLICIFTLIK-(DUZCE)                            Ýlksel
+2023.01.28 12:47:06  39.5417   26.5280        8.9      -.-  2.0  -.-   ARIKLI-AYVACIK (CANAKKALE)                        Ýlksel
+2023.01.28 12:31:09  36.6310   36.1932        8.2      -.-  1.6  -.-   DENIZCILER-ISKENDERUN (HATAY)                     Ýlksel
+2023.01.28 12:13:17  39.4537   31.6412        0.0      -.-  1.6  -.-   KOCAS-SIVRIHISAR (ESKISEHIR)                      Ýlksel
+2023.01.28 12:08:31  37.1460   28.3988       12.7      -.-  2.0  -.-   YENIKOY-(MUGLA)                                   Ýlksel
+2023.01.28 12:04:42  39.4887   26.3412       10.4      -.-  1.3  -.-   BEHRAM-AYVACIK (CANAKKALE)                        Ýlksel
+2023.01.28 12:02:07  37.1235   28.4685        7.2      -.-  2.9  -.-   ARMUTCUK-ULA (MUGLA)                              Ýlksel
+2023.01.28 11:57:31  37.1035   28.4607       11.3      -.-  2.7  -.-   CICEKLI-ULA (MUGLA)                               Ýlksel
+2023.01.28 09:33:09  38.3547   27.1498       10.7      -.-  1.4  -.-   GAZIEMIR (IZMIR)                                  Ýlksel
+2023.01.28 07:14:32  37.9308   27.1897       10.5      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.28 06:23:19  37.3557   29.5195        7.0      -.-  1.8  -.-   KUMAFSARI-ACIPAYAM (DENIZLI)                      Ýlksel
+2023.01.28 05:49:20  40.3732   27.0960        6.5      -.-  1.9  -.-   ESKIBALIKLI-BIGA (CANAKKALE)                      Ýlksel
+2023.01.28 05:34:56  35.7890   28.5367       13.9      -.-  2.7  -.-   AKDENIZ                                           Ýlksel
+2023.01.28 05:28:42  38.9510   27.2977        6.8      -.-  2.3  -.-   KOCAKOY-BERGAMA (IZMIR)                           Ýlksel
+2023.01.28 04:43:16  37.8623   27.1958        5.0      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.28 02:47:09  39.3627   26.2332        3.3      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.28 02:28:54  37.3460   28.0767        4.5      -.-  1.1  -.-   YENIKOY-YATAGAN (MUGLA)                           Ýlksel
+2023.01.28 02:14:07  38.3568   27.1930        6.5      -.-  1.8  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.28 02:01:43  39.1737   43.9203       53.2      -.-  1.4  -.-   SERPMETAS-CALDIRAN (VAN)                          Ýlksel
+2023.01.28 01:19:16  39.9095   39.6997        5.4      -.-  2.3  -.-   GULLUCE-KELKIT (GUMUSHANE)                        Ýlksel
+2023.01.28 01:16:23  40.7575   31.0805       13.0      -.-  1.4  -.-   GOLORMANI-(DUZCE)                                 Ýlksel
+2023.01.28 01:10:56  35.6297   25.3345       17.5      -.-  2.5  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.28 00:43:00  35.7860   28.6480       18.3      -.-  1.8  -.-   AKDENIZ                                           Ýlksel
+2023.01.27 23:59:12  37.0255   28.2043        5.0      -.-  1.5  -.-   GOKOVA KORFEZI (AKDENIZ)                          Ýlksel
+2023.01.27 23:41:53  37.3812   28.0793        8.9      -.-  1.3  -.-   YAVA-YATAGAN (MUGLA)                              Ýlksel
+2023.01.27 23:28:29  35.8325   28.6410       23.2      -.-  2.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.27 23:00:18  35.4537   27.2793        6.8      -.-  2.2  -.-   AKDENIZ                                           Ýlksel
+2023.01.27 22:40:57  39.3823   26.2097        1.4      -.-  1.4  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 22:38:09  39.3487   26.2168        3.8      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 22:37:34  39.3752   26.2363        4.0      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 22:06:06  38.3327   27.1950        7.6      -.-  1.1  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.27 22:03:25  37.7935   43.4592        7.5      -.-  2.4  -.-   TOPYILDIZ-GURPINAR (VAN)                          Ýlksel
+2023.01.27 21:19:57  38.8978   30.1580        5.6      -.-  2.0  -.-   IYICE-SINANPASA (AFYONKARAHISAR)                  Ýlksel
+2023.01.27 20:23:56  39.3753   26.2347       11.2      -.-  2.5  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 18:28:14  39.4537   39.9755        5.0      -.-  2.6  -.-   NOHUTLU-PULUMUR (TUNCELI)                         Ýlksel
+2023.01.27 18:00:11  38.4045   27.2665       17.3      -.-  1.7  -.-   GOKDERE-BORNOVA (IZMIR)                           Ýlksel
+2023.01.27 15:32:02  39.3787   40.6927        5.0      -.-  3.0  3.0   DINARBEY-YEDISU (BINGOL)                          Ýlksel
+2023.01.27 15:00:17  37.3505   29.4640        8.8      -.-  2.4  -.-   BEDIRBEY-ACIPAYAM (DENIZLI)                       Ýlksel
+2023.01.27 14:41:37  40.8807   30.3492       10.9      -.-  1.7  -.-   KAYRANCIK-ADAPAZARI (SAKARYA)                     Ýlksel
+2023.01.27 14:20:03  39.6442   28.7362        7.7      -.-  1.4  -.-   ADAOREN-DURSUNBEY (BALIKESIR)                     Ýlksel
+2023.01.27 14:12:03  34.8492   23.8888        1.2      -.-  3.5  -.-   GIRIT ADASI (AKDENIZ)                             REVIZE01   (2023.01.27 14:12:05)
+2023.01.27 14:07:31  36.2337   27.7142        5.0      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.27 13:56:52  36.1972   33.6880        0.0      -.-  1.2  -.-   YESILOVACIK-SILIFKE (MERSIN)                      Ýlksel
+2023.01.27 13:56:25  36.1745   33.7288        0.0      -.-  1.4  -.-   YESILOVACIK-SILIFKE (MERSIN)                      Ýlksel
+2023.01.27 13:41:36  35.0033   24.0890        3.5      -.-  2.9  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.27 13:20:55  37.9210   27.5932        5.5      -.-  1.9  -.-   DAGKARAAGAC-GERMENCIK (AYDIN)                     Ýlksel
+2023.01.27 12:44:41  36.2448   33.7282        0.0      -.-  1.4  -.-   AKDERE-SILIFKE (MERSIN)                           Ýlksel
+2023.01.27 12:34:02  37.3302   29.3375        3.4      -.-  2.0  -.-   AKALAN-ACIPAYAM (DENIZLI)                         Ýlksel
+2023.01.27 12:07:58  40.8142   30.9947        5.1      -.-  2.0  -.-   SARIDERE-GOLYAKA (DUZCE)                          Ýlksel
+2023.01.27 11:53:22  37.3942   40.5075       11.7      -.-  1.5  -.-   ULUTAS-MAZIDAGI (MARDIN)                          Ýlksel
+2023.01.27 11:52:07  38.8678   37.9412        5.0      -.-  1.5  -.-   BOGAZGOREN-HEKIMHAN (MALATYA)                     Ýlksel
+2023.01.27 11:33:59  40.4463   32.7333       13.0      -.-  1.8  -.-   KIRKOY-KIZILCAHAMAM (ANKARA)                      Ýlksel
+2023.01.27 10:45:52  40.7560   27.6743       11.8      -.-  1.4  -.-   MARMARA DENIZI                                    Ýlksel
+2023.01.27 10:40:39  40.8058   27.7818        6.4      -.-  2.5  -.-   MARMARA DENIZI                                    Ýlksel
+2023.01.27 09:52:13  39.4832   25.8755        7.0      -.-  1.8  -.-   GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          Ýlksel
+2023.01.27 09:39:05  39.3678   26.2622       10.4      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 09:23:44  38.3430   28.5020        5.3      -.-  1.7  -.-   ALASEHIR (MANISA)                                 Ýlksel
+2023.01.27 09:16:12  39.3643   26.2150        3.5      -.-  1.5  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 08:08:05  39.8667   33.1992        4.1      -.-  2.1  -.-   KARACAHASAN-ELMADAG (ANKARA)                      Ýlksel
+2023.01.27 07:44:24  38.3363   27.2265        7.9      -.-  1.4  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.27 06:09:11  38.7205   39.9775        3.0      -.-  2.2  -.-   SENOVA-KOVANCILAR (ELAZIG)                        Ýlksel
+2023.01.27 05:43:19  39.0993   28.3007        5.4      -.-  2.7  -.-   YUREGIL-SINDIRGI (BALIKESIR)                      Ýlksel
+2023.01.27 04:16:11  39.3685   26.2482        6.9      -.-  1.3  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 04:00:01  38.5073   39.2010        4.4      -.-  1.1  -.-   KAVAKTEPE-(ELAZIG)                                Ýlksel
+2023.01.27 03:14:29  35.7777   28.6597       11.7      -.-  3.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.27 02:21:47  37.4623   36.0687        5.0      -.-  1.7  -.-   ARMAGANLI-SUMBAS (OSMANIYE)                       Ýlksel
+2023.01.27 01:53:43  38.2630   27.8470        6.5      -.-  2.7  -.-   VELILER-ODEMIS (IZMIR)                            Ýlksel
+2023.01.27 01:10:36  40.7552   30.9373        7.8      -.-  1.2  -.-   CAY KOYU-GOLYAKA (DUZCE)                          Ýlksel
+2023.01.27 00:32:26  40.5618   27.3272        1.8      -.-  2.2  -.-   MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI)        Ýlksel
+2023.01.27 00:23:32  39.4007   26.2227       10.0      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 00:11:06  39.3412   26.2577        9.8      -.-  1.5  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.27 00:00:06  39.3198   40.7752        5.0      -.-  2.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     Ýlksel
+2023.01.26 23:33:43  38.9492   26.2407        8.9      -.-  2.7  -.-   MIDILLI ADASI GUNEYI (EGE DENIZI)                 Ýlksel
+2023.01.26 23:08:07  40.5222   27.6308       10.6      -.-  2.1  -.-   POYRAZLI-ERDEK (BALIKESIR)                        Ýlksel
+2023.01.26 21:44:45  40.7848   31.0898       10.1      -.-  2.3  -.-   YENIKARAKOY-(DUZCE)                               Ýlksel
+2023.01.26 21:39:47  40.7825   31.0832       10.2      -.-  2.9  -.-   BALLICA-(DUZCE)                                   Ýlksel
+2023.01.26 20:59:00  40.6650   30.4115       15.7      -.-  1.5  -.-   KEMALIYE-ARIFIYE (SAKARYA)                        Ýlksel
+2023.01.26 20:51:17  37.8860   29.4480        6.8      -.-  2.3  -.-   YOKUSBASI-HONAZ (DENIZLI)                         Ýlksel
+2023.01.26 20:45:38  40.7940   30.9535        2.1      -.-  1.6  -.-   YESILOVA-GOLYAKA (DUZCE)                          Ýlksel
+2023.01.26 20:44:44  40.8708   31.5615        5.4      -.-  2.5  -.-   KOZLU-(BOLU)                                      Ýlksel
+2023.01.26 20:44:21  35.8975   28.6277       15.0      -.-  2.8  -.-   AKDENIZ                                           REVIZE01   (2023.01.26 20:44:23)
+2023.01.26 20:23:21  39.6413   22.3070       15.7      -.-  3.4  3.4   YUNANISTAN                                        Ýlksel
+2023.01.26 19:32:19  40.8518   28.7325       10.7      -.-  1.7  -.-   AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        Ýlksel
+2023.01.26 19:08:15  37.8498   27.3370       10.7      -.-  1.5  -.-   YENIKOY-KUSADASI (AYDIN)                          Ýlksel
+2023.01.26 18:59:46  35.8753   28.7395        8.4      -.-  2.4  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 18:35:37  37.3278   29.4097        4.4      -.-  2.0  -.-   KOKE-ACIPAYAM (DENIZLI)                           Ýlksel
+2023.01.26 18:15:49  37.2872   43.6905        5.0      -.-  2.7  -.-   KAYALIK-CUKURCA (HAKKARI)                         Ýlksel
+2023.01.26 17:27:24  39.7532   30.0338       24.2      -.-  1.7  -.-   ERENKOY-INONU (ESKISEHIR)                         Ýlksel
+2023.01.26 16:45:22  39.3707   26.2162        3.4      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.26 15:36:40  37.9283   26.7812        7.0      -.-  2.4  -.-   EGE DENIZI                                        Ýlksel
+2023.01.26 15:27:05  39.1580   27.5500        0.0      -.-  1.9  -.-   KOZANLI-SOMA (MANISA)                             Ýlksel
+2023.01.26 14:51:09  38.3572   27.2573        5.0      -.-  1.7  -.-   GOKDERE-BORNOVA (IZMIR)                           Ýlksel
+2023.01.26 14:35:42  38.8353   26.7325       11.8      -.-  2.0  -.-   CANDARLI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.26 14:34:02  38.5700   44.5823       11.3      -.-  2.0  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.26 14:19:53  39.4423   29.2995        0.0      -.-  1.2  -.-   GUNLUCE-EMET (KUTAHYA)                            Ýlksel
+2023.01.26 14:17:52  39.5642   29.3087        6.6      -.-  1.5  -.-   SAPCI-TAVSANLI (KUTAHYA)                          Ýlksel
+2023.01.26 13:45:39  37.9337   28.7350       27.6      -.-  1.2  -.-   KABAAGAC-SARAYKOY (DENIZLI)                       Ýlksel
+2023.01.26 13:32:26  38.0328   32.3260        0.0      -.-  1.2  -.-   BASARAKAVAK-SELCUKLU (KONYA)                      Ýlksel
+2023.01.26 13:28:12  38.9888   41.0790        5.0      -.-  1.9  -.-   GOKSU-SOLHAN (BINGOL)                             Ýlksel
+2023.01.26 13:12:41  37.3322   29.3668        5.0      -.-  1.5  -.-   KOKE-ACIPAYAM (DENIZLI)                           Ýlksel
+2023.01.26 12:51:32  39.5312   31.2298       11.6      -.-  0.8  -.-   KARAKAYA-SIVRIHISAR (ESKISEHIR)                   Ýlksel
+2023.01.26 12:49:46  40.8463   28.8832        4.7      -.-  1.8  -.-   MARMARA DENIZI                                    Ýlksel
+2023.01.26 12:37:27  37.3655   29.4638       11.8      -.-  1.5  -.-   BEDIRBEY-ACIPAYAM (DENIZLI)                       Ýlksel
+2023.01.26 12:35:42  38.5722   40.5585       14.4      -.-  1.6  -.-   ORTULU-LICE (DIYARBAKIR)                          Ýlksel
+2023.01.26 12:31:19  37.3680   29.4832        7.8      -.-  1.8  -.-   YUMRUTAS-ACIPAYAM (DENIZLI)                       Ýlksel
+2023.01.26 12:29:51  39.3437   26.2240        3.5      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.26 12:20:14  39.3295   26.2370        4.0      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.26 12:15:49  38.8387   26.9303        5.2      -.-  1.6  -.-   CANDARLI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.26 12:03:31  38.6578   40.5827        4.8      -.-  2.0  -.-   YENIYAZI-GENC (BINGOL)                            Ýlksel
+2023.01.26 11:56:40  37.1153   38.6908       18.6      -.-  2.0  -.-   CALISKANLAR-(SANLIURFA)                           Ýlksel
+2023.01.26 11:54:41  35.8348   28.6805       15.4      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 11:53:56  37.3135   40.3998       14.3      -.-  1.9  -.-   KONUR-MAZIDAGI (MARDIN)                           Ýlksel
+2023.01.26 11:44:46  37.2267   36.3882        6.8      -.-  2.0  -.-   ELLEK-DUZICI (OSMANIYE)                           Ýlksel
+2023.01.26 11:23:58  38.1605   38.2773       22.5      -.-  1.5  -.-   ASAGIKOY-YESILYURT (MALATYA)                      Ýlksel
+2023.01.26 11:22:32  39.5502   29.3678       14.6      -.-  1.3  -.-   AYVALI-TAVSANLI (KUTAHYA)                         Ýlksel
+2023.01.26 11:18:06  38.5463   40.5355        8.6      -.-  1.6  -.-   ORTULU-LICE (DIYARBAKIR)                          Ýlksel
+2023.01.26 11:13:33  39.5842   29.3130        5.0      -.-  1.4  -.-   SAPCI-TAVSANLI (KUTAHYA)                          Ýlksel
+2023.01.26 11:11:56  39.5862   29.3630       16.2      -.-  1.5  -.-   KOPRUCEK-TAVSANLI (KUTAHYA)                       Ýlksel
+2023.01.26 10:55:50  38.6415   43.0038       19.6      -.-  1.8  -.-   VAN GOLU                                          Ýlksel
+2023.01.26 10:40:37  40.7745   31.5832        5.4      -.-  1.8  -.-   PIRAHMETLER-(BOLU)                                Ýlksel
+2023.01.26 10:34:01  37.9730   27.1930        5.4      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.26 09:27:43  38.1525   31.1398        6.6      -.-  2.0  -.-   KECILI-GELENDOST (ISPARTA)                        Ýlksel
+2023.01.26 09:11:37  37.8785   29.3650       17.0      -.-  1.8  -.-   KARAPINAR-CAL (DENIZLI)                           Ýlksel
+2023.01.26 09:10:39  37.8873   29.3330       11.9      -.-  1.7  -.-   KARAPINAR-CAL (DENIZLI)                           Ýlksel
+2023.01.26 09:08:49  37.8943   29.3358        2.6      -.-  2.8  -.-   KARAPINAR-CAL (DENIZLI)                           Ýlksel
+2023.01.26 08:57:52  35.7603   28.6240       15.2      -.-  1.8  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 08:52:51  39.8753   38.4597       10.0      -.-  1.8  -.-   GEMECIK-REFAHIYE (ERZINCAN)                       Ýlksel
+2023.01.26 07:45:14  38.3680   30.7903       18.8      -.-  0.9  -.-   AYDOGMUS-CAY (AFYONKARAHISAR)                     Ýlksel
+2023.01.26 06:52:38  35.8605   28.5870       15.2      -.-  1.9  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 06:37:01  38.5018   44.9542        5.0      -.-  1.8  -.-   IRAN                                              Ýlksel
+2023.01.26 06:29:01  37.9472   27.6647        5.2      -.-  1.3  -.-   CARIKLAR-GERMENCIK (AYDIN)                        Ýlksel
+2023.01.26 06:15:17  37.3503   29.2797       21.7      -.-  0.6  -.-   CUBUKCULAR-ACIPAYAM (DENIZLI)                     Ýlksel
+2023.01.26 05:58:00  40.2680   34.9237       12.1      -.-  1.7  -.-   DUTLUCA-ALACA (CORUM)                             Ýlksel
+2023.01.26 05:55:28  36.5677   26.7747      134.1      -.-  3.2  3.2   AKDENIZ                                           Ýlksel
+2023.01.26 05:46:42  37.8810   27.6153        7.9      -.-  1.7  -.-   GERMENCIK (AYDIN)                                 Ýlksel
+2023.01.26 05:38:52  39.3965   26.2667        4.1      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.26 05:26:09  35.6682   28.6423       18.4      -.-  1.3  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 04:47:59  35.8193   28.5890       21.8      -.-  1.8  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 04:32:12  38.3367   27.2268        7.1      -.-  2.0  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.26 04:24:21  40.8035   30.9873       14.8      -.-  1.1  -.-   SARIDERE-GOLYAKA (DUZCE)                          Ýlksel
+2023.01.26 04:09:37  37.4938   26.9355       26.2      -.-  1.5  -.-   EGE DENIZI                                        Ýlksel
+2023.01.26 03:48:23  35.1315   27.8552       11.6      -.-  2.5  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 03:35:24  35.9008   32.6837       11.6      -.-  2.2  -.-   ANAMUR ACIKLARI-MERSIN (AKDENIZ)                  Ýlksel
+2023.01.26 03:30:32  35.9697   28.6117       22.3      -.-  1.3  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 03:15:34  35.7912   28.6247       19.9      -.-  1.9  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 02:47:05  35.8052   28.6277       20.7      -.-  1.7  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 02:38:57  38.2588   38.5608        8.8      -.-  2.3  -.-   TANISIK-(MALATYA)                                 Ýlksel
+2023.01.26 02:20:21  39.4127   39.8457        7.1      -.-  1.3  -.-   GOKCEKONAK-PULUMUR (TUNCELI)                      Ýlksel
+2023.01.26 02:14:57  38.8852   39.6703        9.3      -.-  1.4  -.-   KIZILCIK-MAZGIRT (TUNCELI)                        Ýlksel
+2023.01.26 01:54:48  38.9790   27.8643        9.7      -.-  2.2  -.-   KARABORKLU-AKHISAR (MANISA)                       Ýlksel
+2023.01.26 01:42:46  38.3200   27.1887       12.9      -.-  1.4  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.26 01:40:44  37.1683   37.4545       14.6      -.-  1.2  -.-   SUBOGAZI-SEHITKAMIL (GAZIANTEP)                   Ýlksel
+2023.01.26 01:25:29  35.5138   28.6270       10.2      -.-  1.4  -.-   AKDENIZ                                           Ýlksel
+2023.01.26 00:52:34  37.7052   29.3245        5.0      -.-  2.6  -.-   AYDINLAR-HONAZ (DENIZLI)                          Ýlksel
+2023.01.26 00:02:21  35.9347   28.7208        5.0      -.-  2.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 23:46:53  41.3727   43.9598       20.9      -.-  2.1  -.-   GURCISTAN                                         Ýlksel
+2023.01.25 23:38:41  37.0533   28.2885        1.1      -.-  2.1  -.-   KUYUCAK-(MUGLA)                                   Ýlksel
+2023.01.25 23:11:14  38.9775   41.0875        6.1      -.-  1.7  -.-   SOLHAN (BINGOL)                                   Ýlksel
+2023.01.25 23:02:47  35.5563   25.4545        1.2      -.-  2.4  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.25 22:38:53  38.9452   27.2810        6.0      -.-  1.8  -.-   BEKIRLER-BERGAMA (IZMIR)                          Ýlksel
+2023.01.25 22:36:14  35.8163   28.6243       20.9      -.-  2.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 22:19:59  37.0448   28.2137        7.9      -.-  2.3  -.-   KIRAN-(MUGLA)                                     Ýlksel
+2023.01.25 22:16:49  35.7857   28.6332       20.2      -.-  3.2  3.2   AKDENIZ                                           Ýlksel
+2023.01.25 22:14:37  35.4905   28.1927        5.0      -.-  3.1  3.2   AKDENIZ                                           Ýlksel
+2023.01.25 21:50:50  35.9005   28.5825        7.3      -.-  2.2  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 21:48:18  35.8293   28.5785       11.6      -.-  2.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 21:40:29  35.7697   28.6523        5.5      -.-  3.4  3.3   AKDENIZ                                           Ýlksel
+2023.01.25 21:35:10  39.3815   26.1842        5.0      -.-  1.2  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 21:07:51  38.9798   26.2402        5.0      -.-  2.5  -.-   MIDILLI ADASI GUNEYI (EGE DENIZI)                 Ýlksel
+2023.01.25 20:32:41  35.8823   28.5995       14.6      -.-  1.6  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 20:10:26  35.6928   28.4772       27.7      -.-  2.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 20:02:39  35.6867   28.6003       11.8      -.-  2.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 19:49:10  35.6745   28.6022        5.9      -.-  1.9  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 19:46:56  38.9483   27.2160        5.4      -.-  1.3  -.-   BALABAN-BERGAMA (IZMIR)                           Ýlksel
+2023.01.25 19:33:14  35.8952   28.6673       21.1      -.-  2.1  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 19:20:16  39.3937   40.5157        5.6      -.-  1.8  -.-   SENKOY-YEDISU (BINGOL)                            Ýlksel
+2023.01.25 19:16:50  35.8627   28.7337        8.0      -.-  2.5  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 19:13:06  35.8630   28.6532       64.0      -.-  3.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 18:40:09  35.9428   28.7080       22.4      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 18:30:46  39.3533   26.2453        7.8      -.-  1.1  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 18:23:04  37.7585   26.8893       19.9      -.-  1.6  -.-   SISAM ADASI (EGE DENIZI)                          Ýlksel
+2023.01.25 18:09:47  41.2240   28.7353        0.0      -.-  1.1  -.-   ARNAVUTKOY (ISTANBUL)                             Ýlksel
+2023.01.25 18:07:24  35.9438   28.6862       10.5      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 17:51:29  35.6812   28.5503       10.7      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 17:44:41  36.1015   33.5298        0.0      -.-  1.3  -.-   YANISLI-GULNAR (MERSIN)                           Ýlksel
+2023.01.25 17:41:14  35.8267   28.6543       13.1      -.-  1.8  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 17:40:13  35.6948   28.6033       12.8      -.-  2.3  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 17:19:45  35.9042   28.6007       17.4      -.-  2.8  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 17:14:01  35.6458   28.4547       10.4      -.-  2.5  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 17:12:44  35.7303   28.6325       13.8      -.-  2.3  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 17:11:00  38.6073   39.5283        8.2      -.-  2.1  -.-   DEGIRMENONU-(ELAZIG)                              Ýlksel
+2023.01.25 17:07:09  35.7402   28.5623       45.1      -.-  3.4  3.3   AKDENIZ                                           Ýlksel
+2023.01.25 15:53:48  35.6948   28.6073        8.5      -.-  2.6  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 15:48:34  35.7012   28.5515        9.0      -.-  3.0  2.8   AKDENIZ                                           Ýlksel
+2023.01.25 15:47:08  35.6645   28.5875        8.2      -.-  2.9  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 15:43:28  35.8210   28.4372        5.0      -.-  2.4  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 15:37:07  35.8503   28.4935       30.3      -.-  5.7  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 14:58:43  35.1905   25.2088        3.1      -.-  2.6  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.25 14:13:00  36.7290   38.3450        3.3      -.-  2.1  -.-   TURKIYE-SURIYE SINIR BOLGESI                      Ýlksel
+2023.01.25 13:38:35  36.8727   39.1255        3.3      -.-  1.6  -.-   YAYGILI-HARRAN (SANLIURFA)                        Ýlksel
+2023.01.25 12:48:29  39.3650   26.2462       12.3      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 12:41:45  36.2387   33.7030        0.0      -.-  1.3  -.-   ISIKLI-SILIFKE (MERSIN)                           Ýlksel
+2023.01.25 11:57:27  39.5832   29.3900        0.0      -.-  1.2  -.-   KOPRUCEK-TAVSANLI (KUTAHYA)                       Ýlksel
+2023.01.25 11:52:28  39.3780   26.2533        5.7      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 11:30:17  36.0333   29.0625       17.5      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 11:22:15  39.3703   40.6813        5.0      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          Ýlksel
+2023.01.25 11:06:24  37.8240   36.0778        3.3      -.-  2.2  -.-   HIMMETLI-SAIMBEYLI (ADANA)                        Ýlksel
+2023.01.25 10:40:59  37.9810   27.1808        4.1      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.25 10:40:20  38.4062   27.3022       10.4      -.-  1.8  -.-   KAVAKLIDERE-BORNOVA (IZMIR)                       Ýlksel
+2023.01.25 10:27:47  40.5170   32.9443        7.6      -.-  1.6  -.-   TUTMACBAYINDIR-ORTA (CANKIRI)                     Ýlksel
+2023.01.25 10:06:12  35.2425   25.1953        2.1      -.-  3.1  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.25 09:20:42  40.6770   30.4037       15.7      -.-  1.4  -.-   KEMALIYE-ARIFIYE (SAKARYA)                        Ýlksel
+2023.01.25 09:12:11  39.2113   26.7248        5.0      -.-  1.6  -.-   ALTINOVA-AYVALIK (BALIKESIR)                      Ýlksel
+2023.01.25 09:06:11  37.8462   36.0493        6.9      -.-  2.7  -.-   HIMMETLI-SAIMBEYLI (ADANA)                        Ýlksel
+2023.01.25 08:31:29  38.5320   44.6412        5.0      -.-  2.5  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.25 08:21:23  37.7893   36.1017        1.4      -.-  2.5  -.-   AYVACIK-SAIMBEYLI (ADANA)                         Ýlksel
+2023.01.25 07:20:40  39.3655   26.2687        6.5      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 07:12:43  39.0627   27.5125        5.0      -.-  1.2  -.-   KALEMKOY-KINIK (IZMIR)                            Ýlksel
+2023.01.25 07:01:30  39.3720   26.2320       13.7      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 06:56:04  37.0720   28.4223       13.8      -.-  1.1  -.-   YESILOVA-ULA (MUGLA)                              Ýlksel
+2023.01.25 06:47:51  40.2243   26.4672       16.3      -.-  2.2  -.-   CANAKKALE BOGAZI                                  Ýlksel
+2023.01.25 05:32:39  39.7790   27.8200       13.1      -.-  1.1  -.-   TATLIPINAR-(BALIKESIR)                            Ýlksel
+2023.01.25 05:25:51  37.7995   29.2725       11.6      -.-  1.1  -.-   GURLEYIK-HONAZ (DENIZLI)                          Ýlksel
+2023.01.25 05:19:15  40.7732   31.4940       24.8      -.-  1.5  -.-   KIZILAGIL-(BOLU)                                  Ýlksel
+2023.01.25 05:10:51  40.7437   31.4643        8.0      -.-  1.6  -.-   ELMALIK-(BOLU)                                    Ýlksel
+2023.01.25 04:53:43  38.5332   33.0717       17.1      -.-  1.1  -.-   GUNYUZU-CIHANBEYLI (KONYA)                        Ýlksel
+2023.01.25 04:44:01  39.0448   27.5410        5.0      -.-  1.2  -.-   EGNEZ-SOMA (MANISA)                               Ýlksel
+2023.01.25 04:22:57  35.8502   27.5880        4.8      -.-  2.0  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 04:22:51  37.9413   29.1765       19.1      -.-  0.8  -.-   YENIKOY-(DENIZLI)                                 REVIZE01   (2023.01.25 04:22:57)
+2023.01.25 04:16:15  37.9687   27.2145       15.9      -.-  1.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.25 04:11:30  37.0817   28.3985       10.7      -.-  1.5  -.-   YESILOVA-ULA (MUGLA)                              Ýlksel
+2023.01.25 04:04:31  40.6270   28.9267        5.5      -.-  1.7  -.-   ESENKOY-CINARCIK (YALOVA)                         Ýlksel
+2023.01.25 03:57:35  37.8252   36.1202        6.7      -.-  1.8  -.-   AYVACIK-SAIMBEYLI (ADANA)                         Ýlksel
+2023.01.25 03:56:48  38.3448   27.2358        5.3      -.-  0.8  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.25 03:49:32  40.8220   31.0438       12.8      -.-  2.0  -.-   KOPRUBASI OMEREFENDI-(DUZCE)                      Ýlksel
+2023.01.25 03:11:52  36.0670   29.4752        5.0      -.-  1.1  -.-   KAS ACIKLARI-ANTALYA (AKDENIZ)                    Ýlksel
+2023.01.25 02:42:58  39.3990   26.2208        5.3      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 02:40:50  39.3893   26.2415        8.6      -.-  2.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 02:23:27  36.3763   36.4175        2.0      -.-  1.2  -.-   AKKERPIC-KUMLU (HATAY)                            Ýlksel
+2023.01.25 02:18:14  38.7005   43.1852       13.9      -.-  1.4  -.-   AGARTI-(VAN)                                      Ýlksel
+2023.01.25 01:57:17  39.6083   40.5177        4.9      -.-  2.3  -.-   ESENEVLER-TERCAN (ERZINCAN)                       Ýlksel
+2023.01.25 01:13:13  37.1045   28.4798       10.4      -.-  1.5  -.-   CICEKLI-ULA (MUGLA)                               Ýlksel
+2023.01.25 01:06:49  38.7175   26.9177        8.2      -.-  1.2  -.-   HOROZGEDIGI-ALIAGA (IZMIR)                        Ýlksel
+2023.01.25 01:01:04  35.9837   28.1575       86.8      -.-  2.8  -.-   AKDENIZ                                           Ýlksel
+2023.01.25 00:51:11  38.3792   38.7348       11.9      -.-  1.4  -.-   KALEKOY-KALE (MALATYA)                            Ýlksel
+2023.01.25 00:45:34  39.3692   26.2650        8.8      -.-  1.4  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.25 00:40:44  37.6965   35.4378        3.5      -.-  2.8  -.-   KUP-ALADAG (ADANA)                                Ýlksel
+2023.01.25 00:34:25  40.8323   28.3298       19.1      -.-  2.4  -.-   MARMARA DENIZI                                    Ýlksel
+2023.01.24 23:44:45  39.6267   40.5230        5.4      -.-  2.0  -.-   ESENEVLER-TERCAN (ERZINCAN)                       Ýlksel
+2023.01.24 23:42:33  38.7088   43.1710       16.4      -.-  1.8  -.-   AGARTI-(VAN)                                      Ýlksel
+2023.01.24 23:42:02  39.6110   40.5983        5.0      -.-  2.2  -.-   ILISU-TERCAN (ERZINCAN)                           Ýlksel
+2023.01.24 23:41:04  39.1710   29.4318        8.0      -.-  1.8  -.-   PUSATLAR-CAVDARHISAR (KUTAHYA)                    Ýlksel
+2023.01.24 23:09:05  41.3077   43.9173        7.3      -.-  2.5  -.-   GURCISTAN                                         Ýlksel
+2023.01.24 22:49:04  39.3920   26.2312       18.3      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 22:41:54  39.3792   26.2482        8.2      -.-  1.7  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 22:10:54  37.7217   35.5783       12.5      -.-  1.8  -.-   KAPIKAYA-KOZAN (ADANA)                            Ýlksel
+2023.01.24 21:49:18  38.8252   31.4570       13.2      -.-  1.7  -.-   LEYLEKLI-EMIRDAG (AFYONKARAHISAR)                 Ýlksel
+2023.01.24 21:32:32  38.2995   27.2068       11.4      -.-  1.4  -.-   KISIK-MENDERES (IZMIR)                            Ýlksel
+2023.01.24 21:24:36  35.4567   26.2245        7.7      -.-  2.1  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.24 19:36:22  37.3442   29.4933        9.0      -.-  2.0  -.-   KUMAFSARI-ACIPAYAM (DENIZLI)                      Ýlksel
+2023.01.24 19:08:44  37.3593   29.5138        7.5      -.-  2.2  -.-   KUMAFSARI-ACIPAYAM (DENIZLI)                      Ýlksel
+2023.01.24 19:05:55  39.3627   26.2812        9.8      -.-  2.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 18:09:46  38.5697   44.3917        5.0      -.-  3.0  -.-   YAMANYURT-SARAY (VAN)                             Ýlksel
+2023.01.24 18:04:49  39.3735   26.2893       15.1      -.-  2.2  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 17:41:42  41.1632   40.8162        4.2      -.-  1.4  -.-   HISARLI-PAZAR (RIZE)                              Ýlksel
+2023.01.24 17:39:21  37.3372   29.0397        5.0      -.-  1.2  -.-   CAGIRGAN-TAVAS (DENIZLI)                          Ýlksel
+2023.01.24 17:24:23  38.9382   33.6223        1.7      -.-  1.5  -.-   SEYMENLI-SEREFLIKOCHISAR (ANKARA)                 Ýlksel
+2023.01.24 16:03:31  38.3647   30.5882        6.1      -.-  1.8  -.-   KULAK-SUHUT (AFYONKARAHISAR)                      Ýlksel
+2023.01.24 15:24:24  39.3765   40.7193        3.3      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     Ýlksel
+2023.01.24 15:01:18  36.2570   33.5707        0.0      -.-  0.8  -.-   ULUPINAR-GULNAR (MERSIN)                          Ýlksel
+2023.01.24 14:59:49  36.1383   33.4982        0.0      -.-  0.7  -.-   YANISLI-GULNAR (MERSIN)                           Ýlksel
+2023.01.24 14:59:42  39.3422   26.2155        2.1      -.-  1.7  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 14:46:42  39.3508   26.2490        3.6      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 14:45:45  39.3440   26.2463        8.2      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 14:39:02  39.3398   26.2730        8.8      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 14:26:28  39.3755   26.2193       13.0      -.-  2.5  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 14:10:45  39.8468   42.4437       10.0      -.-  2.0  -.-   TAHIR-ELESKIRT (AGRI)                             Ýlksel
+2023.01.24 14:02:02  39.3725   40.7370        5.0      -.-  2.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     Ýlksel
+2023.01.24 13:59:25  39.0510   31.0993        4.9      -.-  0.8  -.-   TABAKLAR-EMIRDAG (AFYONKARAHISAR)                 Ýlksel
+2023.01.24 13:56:18  39.1893   41.9987       15.7      -.-  1.7  -.-   AKCAKAYNAK-BULANIK (MUS)                          Ýlksel
+2023.01.24 13:50:11  35.9008   33.4030        8.5      -.-  1.5  -.-   AKDENIZ                                           Ýlksel
+2023.01.24 13:29:49  34.9437   25.1600        5.0      -.-  3.4  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.24 13:17:24  37.0110   28.8452        5.1      -.-  1.6  -.-   CAYHISAR-KOYCEGIZ (MUGLA)                         Ýlksel
+2023.01.24 13:17:21  39.3537   26.2513        4.9      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        REVIZE01   (2023.01.24 13:17:23)
+2023.01.24 12:59:57  37.0982   27.9737        0.0      -.-  1.4  -.-   PINARKOY-MILAS (MUGLA)                            Ýlksel
+2023.01.24 12:42:27  36.8642   34.5237        0.0      -.-  1.2  -.-   KOCAHAMZALI-YENISEHIR (MERSIN)                    Ýlksel
+2023.01.24 12:35:00  37.2897   36.6333        1.3      -.-  1.1  -.-   INDERESI-BAHCE (OSMANIYE)                         Ýlksel
+2023.01.24 12:26:53  36.6242   36.2623        6.7      -.-  1.3  -.-   BITISIK-ISKENDERUN (HATAY)                        Ýlksel
+2023.01.24 12:26:11  38.6685   44.7073        5.0      -.-  2.7  -.-   TURKIYE-IRAN SINIR BOLGESI                        Ýlksel
+2023.01.24 12:23:22  38.4955   39.1613        5.4      -.-  1.9  -.-   DEDEPINARI-(ELAZIG)                               Ýlksel
+2023.01.24 12:22:41  39.1392   27.5955        0.0      -.-  1.8  -.-   DARKALE-SOMA (MANISA)                             Ýlksel
+2023.01.24 12:14:53  40.5393   29.2898        0.0      -.-  1.2  -.-   GUNEYKOY-(YALOVA)                                 REVIZE01   (2023.01.24 12:15:01)
+2023.01.24 12:11:48  37.6830   32.3503        0.0      -.-  1.1  -.-   SARIKIZ-MERAM (KONYA)                             Ýlksel
+2023.01.24 11:03:56  37.8872   26.8853        6.4      -.-  2.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.24 10:49:19  35.5445   25.7588        2.8      -.-  2.9  3.1   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.24 09:41:08  39.6037   40.9957        7.1      -.-  2.0  -.-   CAT (ERZURUM)                                     Ýlksel
+2023.01.24 09:11:30  35.5287   31.2948        5.0      -.-  2.7  -.-   AKDENIZ                                           Ýlksel
+2023.01.24 08:59:30  35.3882   31.3148        4.9      -.-  3.9  3.9   AKDENIZ                                           REVIZE01   (2023.01.24 08:59:30)
+2023.01.24 08:03:57  36.7058   28.9358       27.5      -.-  2.0  -.-   FETHIYE KORFEZI (AKDENIZ)                         Ýlksel
+2023.01.24 07:06:08  39.3660   26.2402       11.2      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 06:58:11  40.7300   27.3970        8.0      -.-  2.0  -.-   GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       Ýlksel
+2023.01.24 06:13:57  39.3590   26.2005        5.0      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 05:18:21  39.3643   26.2838       10.7      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 05:04:58  39.3608   26.2660        6.0      -.-  3.4  3.3   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 04:47:30  39.4357   26.3655        4.2      -.-  3.3  3.2   EDREMIT KORFEZI (EGE DENIZI)                      Ýlksel
+2023.01.24 04:35:17  39.3535   26.2663       12.2      -.-  2.2  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 03:57:17  39.3492   26.2528        8.9      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 03:54:27  39.3713   26.2488        4.2      -.-  2.3  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 03:48:48  39.3583   26.2827        6.2      -.-  4.0  3.9   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.24 01:37:24  40.6717   30.6397        7.8      -.-  2.9  -.-   PAZARKOY-AKYAZI (SAKARYA)                         Ýlksel
+2023.01.24 01:14:24  38.5767   31.2317        8.2      -.-  1.8  -.-   DOGANCIK-SULTANDAGI (AFYONKARAHISAR)              Ýlksel
+2023.01.24 01:12:34  39.4377   26.3438        4.6      -.-  2.7  -.-   EDREMIT KORFEZI (EGE DENIZI)                      Ýlksel
+2023.01.24 01:12:18  39.4297   26.3372       12.8      -.-  2.7  -.-   EDREMIT KORFEZI (EGE DENIZI)                      Ýlksel
+2023.01.24 00:28:21  40.7118   32.4642       10.4      -.-  1.6  -.-   DEMIRLER-GEREDE (BOLU)                            Ýlksel
+2023.01.23 23:41:04  39.3725   26.2612       10.2      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 23:37:20  36.8325   27.4492        7.7      -.-  3.2  3.2   GOKOVA KORFEZI (AKDENIZ)                          Ýlksel
+2023.01.23 23:37:18  37.7377   29.4823        5.0      -.-  1.4  -.-   CAMBASI-BOZKURT (DENIZLI)                         REVIZE01   (2023.01.23 23:37:20)
+2023.01.23 23:23:31  39.7488   43.6637        5.8      -.-  2.3  -.-   SARIBIYIK-DOGUBAYAZIT (AGRI)                      Ýlksel
+2023.01.23 23:19:07  36.1227   29.3153        7.2      -.-  1.6  -.-   KALKAN ACIKLARI-ANTALYA (AKDENIZ)                 Ýlksel
+2023.01.23 22:58:54  40.6180   28.9332        8.1      -.-  1.6  -.-   ESENKOY-CINARCIK (YALOVA)                         Ýlksel
+2023.01.23 22:46:28  37.8445   26.9200       10.3      -.-  1.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.23 22:41:10  36.1332   31.7117       18.6      -.-  1.6  -.-   AKDENIZ                                           Ýlksel
+2023.01.23 22:08:58  37.8818   27.2348       27.3      -.-  0.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.23 21:52:01  39.2247   26.2192       15.0      -.-  1.0  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 21:50:50  37.6070   26.7518       18.5      -.-  1.1  -.-   EGE DENIZI                                        Ýlksel
+2023.01.23 21:33:50  40.7395   27.3993       15.4      -.-  1.6  -.-   GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       Ýlksel
+2023.01.23 21:07:30  39.3593   26.2797       10.8      -.-  2.2  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 20:45:14  36.9913   29.0605       18.3      -.-  1.0  -.-   NARLI-DALAMAN (MUGLA)                             Ýlksel
+2023.01.23 20:19:48  37.7640   26.9175        5.0      -.-  1.5  -.-   SISAM ADASI (EGE DENIZI)                          Ýlksel
+2023.01.23 20:16:06  38.7245   43.6222       14.8      -.-  1.6  -.-   ILIKAYNAK-(VAN)                                   Ýlksel
+2023.01.23 20:01:56  36.1088   28.0992        5.6      -.-  2.2  -.-   RODOS ADASI (AKDENIZ)                             Ýlksel
+2023.01.23 19:36:41  37.3922   29.2057       24.5      -.-  0.7  -.-   NIKFER-TAVAS (DENIZLI)                            Ýlksel
+2023.01.23 19:29:16  39.3615   26.2835       11.6      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 19:12:24  37.8338   27.5772       19.2      -.-  1.7  -.-   UZUMLU-GERMENCIK (AYDIN)                          Ýlksel
+2023.01.23 18:35:04  38.8185   26.8325       15.1      -.-  1.9  -.-   CANDARLI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.23 17:56:31  39.3673   26.2565       15.4      -.-  1.7  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 17:13:22  36.4443   28.9240       18.2      -.-  2.9  -.-   OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 Ýlksel
+2023.01.23 16:33:10  37.5500   26.7978        5.9      -.-  2.3  -.-   EGE DENIZI                                        Ýlksel
+2023.01.23 16:28:40  37.7928   29.3517        9.1      -.-  1.7  -.-   DERECIFTLIK-HONAZ (DENIZLI)                       Ýlksel
+2023.01.23 16:14:25  39.7528   41.9167        2.7      -.-  2.3  -.-   PAYVEREN-KARAYAZI (ERZURUM)                       Ýlksel
+2023.01.23 16:08:52  38.7468   27.8927        5.2      -.-  1.3  -.-   HACIBASTANLAR-GOLMARMARA (MANISA)                 Ýlksel
+2023.01.23 16:00:33  40.4702   29.2458        0.0      -.-  1.2  -.-   SAHINYURDU-GEMLIK (BURSA)                         Ýlksel
+2023.01.23 16:00:28  39.1145   40.4005        8.9      -.-  2.4  -.-   SANCAK-(BINGOL)                                   Ýlksel
+2023.01.23 15:51:12  39.3682   26.2483       10.4      -.-  2.3  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 15:44:27  39.4108   26.2098        7.3      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 15:34:44  39.3767   26.2435       18.2      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 15:22:17  39.3783   26.2413       12.9      -.-  3.3  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 15:07:06  39.4892   29.3912       18.1      -.-  1.5  -.-   AGAKOY-TAVSANLI (KUTAHYA)                         Ýlksel
+2023.01.23 14:51:33  37.0613   28.8983        9.6      -.-  2.1  -.-   OTMANLAR-KOYCEGIZ (MUGLA)                         Ýlksel
+2023.01.23 13:38:10  37.8387   38.3185       17.9      -.-  1.8  -.-   PALANLI-(ADIYAMAN)                                Ýlksel
+2023.01.23 12:56:14  39.1530   27.4942        0.0      -.-  1.3  -.-   CENKYERI-SOMA (MANISA)                            Ýlksel
+2023.01.23 12:48:15  38.2658   27.2270       16.4      -.-  1.2  -.-   YESILKOY-TORBALI (IZMIR)                          Ýlksel
+2023.01.23 12:36:43  39.5407   29.2453       15.8      -.-  1.5  -.-   CAMALAN-TAVSANLI (KUTAHYA)                        Ýlksel
+2023.01.23 12:36:10  39.4765   33.5475        6.8      -.-  1.8  -.-   CELEBI (KIRIKKALE)                                Ýlksel
+2023.01.23 12:30:23  39.8828   26.2635        3.4      -.-  0.9  -.-   PINARBASI-EZINE (CANAKKALE)                       Ýlksel
+2023.01.23 12:28:44  37.3530   29.4953        4.9      -.-  2.1  -.-   KUMAFSARI-ACIPAYAM (DENIZLI)                      Ýlksel
+2023.01.23 12:24:49  36.2747   33.7203        0.0      -.-  1.4  -.-   AKDERE-SILIFKE (MERSIN)                           Ýlksel
+2023.01.23 12:19:07  38.1232   27.2862        5.1      -.-  1.5  -.-   YENIKOY-TORBALI (IZMIR)                           Ýlksel
+2023.01.23 11:16:08  40.8008   31.0257        5.4      -.-  1.7  -.-   ICMELER-GOLYAKA (DUZCE)                           Ýlksel
+2023.01.23 11:05:48  40.8218   30.9722       17.9      -.-  1.6  -.-   ELMACIK-GUMUSOVA (DUZCE)                          Ýlksel
+2023.01.23 11:04:33  37.8200   27.0270        5.4      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.23 10:49:15  40.1542   31.7293        4.3      -.-  2.1  -.-   SEKLI-BEYPAZARI (ANKARA)                          Ýlksel
+2023.01.23 10:28:17  39.9907   42.5720       12.6      -.-  1.9  -.-   KOZAN-SARIKAMIS (KARS)                            Ýlksel
+2023.01.23 10:18:35  40.6018   32.4868        5.5      -.-  1.5  -.-   GEBELER-KIZILCAHAMAM (ANKARA)                     Ýlksel
+2023.01.23 09:24:24  39.7117   25.4977        1.9      -.-  2.5  -.-   EGE DENIZI                                        Ýlksel
+2023.01.23 09:01:21  37.8485   26.8393        2.5      -.-  2.1  -.-   SISAM ADASI (EGE DENIZI)                          Ýlksel
+2023.01.23 07:48:19  39.3478   26.2792       10.9      -.-  2.7  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 07:14:44  39.9130   32.7803        5.2      -.-  2.2  -.-   YENIMAHALLE (ANKARA)                              Ýlksel
+2023.01.23 07:01:45  40.8043   31.0145        1.6      -.-  1.4  -.-   ICMELER-GOLYAKA (DUZCE)                           Ýlksel
+2023.01.23 06:59:54  39.8787   32.7647        7.3      -.-  1.0  -.-   CANKAYA (ANKARA)                                  Ýlksel
+2023.01.23 06:53:58  40.8525   28.2400       19.4      -.-  2.0  -.-   SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        Ýlksel
+2023.01.23 05:58:38  36.9517   27.6623       12.7      -.-  3.0  -.-   GOKOVA KORFEZI (AKDENIZ)                          Ýlksel
+2023.01.23 05:38:13  40.7090   42.3127        5.5      -.-  2.2  -.-   YOGURTCULAR-SENKAYA (ERZURUM)                     Ýlksel
+2023.01.23 05:29:45  39.3522   26.2782       11.2      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 05:21:50  39.3513   26.2768       11.9      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.23 05:05:30  38.3323   27.2167        8.3      -.-  1.3  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.23 04:16:43  38.3362   27.2080        8.4      -.-  1.5  -.-   ZAFER-BUCA (IZMIR)                                Ýlksel
+2023.01.23 04:11:18  39.3328   27.4310        8.7      -.-  1.6  -.-   KAPLAN-SOMA (MANISA)                              Ýlksel
+2023.01.23 03:53:19  40.0802   40.5213        5.0      -.-  1.6  -.-   BASCIMAGIL-(BAYBURT)                              Ýlksel
+2023.01.23 02:30:10  37.7663   26.9955        1.8      -.-  1.4  -.-   SISAM ADASI (EGE DENIZI)                          Ýlksel
+2023.01.23 01:39:11  40.5340   32.9408       12.5      -.-  1.3  -.-   TUTMACBAYINDIR-ORTA (CANKIRI)                     Ýlksel
+2023.01.23 01:27:24  37.3328   29.5448        8.6      -.-  1.5  -.-   KUMAFSARI-ACIPAYAM (DENIZLI)                      Ýlksel
+2023.01.22 23:43:46  40.1565   24.2207       16.0      -.-  2.2  -.-   YUNANISTAN                                        Ýlksel
+2023.01.22 23:32:14  37.3603   29.4930       15.1      -.-  1.1  -.-   YUMRUTAS-ACIPAYAM (DENIZLI)                       Ýlksel
+2023.01.22 22:40:34  37.3450   29.4972       10.5      -.-  1.1  -.-   KUMAFSARI-ACIPAYAM (DENIZLI)                      Ýlksel
+2023.01.22 19:55:38  37.8843   29.3225        2.3      -.-  1.9  -.-   KARAPINAR-CAL (DENIZLI)                           Ýlksel
+2023.01.22 19:35:11  37.8083   26.8377       12.6      -.-  1.9  -.-   SISAM ADASI (EGE DENIZI)                          Ýlksel
+2023.01.22 19:33:43  37.8850   29.3400        7.1      -.-  2.4  -.-   KARAPINAR-CAL (DENIZLI)                           Ýlksel
+2023.01.22 19:27:40  37.9738   27.1968        5.0      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     Ýlksel
+2023.01.22 19:16:57  39.6733   44.3828        3.1      -.-  2.3  -.-   GUNGOREN-DOGUBAYAZIT (AGRI)                       Ýlksel
+2023.01.22 18:44:06  37.2168   37.0970        0.0      -.-  1.7  -.-   SARILAR-SEHITKAMIL (GAZIANTEP)                    Ýlksel
+2023.01.22 18:34:32  39.3788   26.2477       14.0      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 17:55:56  39.0300   42.1143       14.7      -.-  1.7  -.-   ESENLIK-BULANIK (MUS)                             Ýlksel
+2023.01.22 17:41:14  39.6092   28.7903        5.4      -.-  2.8  -.-   CINARKOY-DURSUNBEY (BALIKESIR)                    Ýlksel
+2023.01.22 16:35:35  38.9822   27.8820        6.3      -.-  2.1  -.-   KARABORKLU-AKHISAR (MANISA)                       Ýlksel
+2023.01.22 16:31:57  40.7685   30.9800        5.0      -.-  1.9  -.-   TASLIK-GOLYAKA (DUZCE)                            Ýlksel
+2023.01.22 16:23:01  38.9772   27.8725        8.9      -.-  3.1  2.8   KARABORKLU-AKHISAR (MANISA)                       Ýlksel
+2023.01.22 15:21:49  36.3382   36.0033       10.4      -.-  1.4  -.-   KARAGOZ-ARSUZ (HATAY)                             Ýlksel
+2023.01.22 14:37:15  39.0888   40.3102        5.3      -.-  1.9  -.-   SUTGOLU-(BINGOL)                                  Ýlksel
+2023.01.22 14:07:15  37.0912   28.3933        8.2      -.-  2.0  -.-   ULA (MUGLA)                                       Ýlksel
+2023.01.22 13:54:01  36.2055   28.4052       27.6      -.-  2.7  -.-   AKDENIZ                                           Ýlksel
+2023.01.22 12:33:06  37.2982   31.9520        2.6      -.-  2.0  -.-   SUSUZ-SEYDISEHIR (KONYA)                          Ýlksel
+2023.01.22 12:12:27  39.2722   40.2150        9.4      -.-  2.2  -.-   ACIKGUNEY-KIGI (BINGOL)                           Ýlksel
+2023.01.22 11:37:15  40.6602   36.7233        5.0      -.-  3.1  3.0   AYAN-ERBAA (TOKAT)                                Ýlksel
+2023.01.22 10:03:05  40.7783   30.9450        3.4      -.-  1.5  -.-   ZEKERIYAKOY-GOLYAKA (DUZCE)                       Ýlksel
+2023.01.22 09:35:46  35.0878   25.8730       11.6      -.-  2.7  -.-   GIRIT ADASI (AKDENIZ)                             Ýlksel
+2023.01.22 08:05:39  37.8008   29.6848        5.0      -.-  1.5  -.-   CARDAK (DENIZLI)                                  Ýlksel
+2023.01.22 08:02:37  40.7743   31.0108        5.2      -.-  1.6  -.-   GOLYAKA (DUZCE)                                   Ýlksel
+2023.01.22 07:55:34  40.2000   31.8705        6.6      -.-  2.1  -.-   CAKILOBA-BEYPAZARI (ANKARA)                       Ýlksel
+2023.01.22 07:46:45  38.8515   22.9817        4.6      -.-  3.8  -.-   YUNANISTAN                                        Ýlksel
+2023.01.22 07:35:49  37.9275   29.1155        5.4      -.-  1.7  -.-   PAMUKKALE-(DENIZLI)                               Ýlksel
+2023.01.22 07:27:03  40.1512   28.2782       10.9      -.-  1.3  -.-   YOLAGZI-KARACABEY (BURSA)                         Ýlksel
+2023.01.22 07:23:07  39.3767   26.2650        6.2      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 06:53:13  38.8428   27.6100       10.2      -.-  1.5  -.-   GOZLET-SARUHANLI (MANISA)                         Ýlksel
+2023.01.22 06:48:54  39.3763   26.2415       10.3      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 06:46:45  36.0128   29.8557        5.3      -.-  1.9  -.-   KAS ACIKLARI-ANTALYA (AKDENIZ)                    Ýlksel
+2023.01.22 06:40:47  39.3757   26.2323        6.2      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 06:28:04  36.9825   28.4220        9.9      -.-  1.7  -.-   YESILCAM-ULA (MUGLA)                              Ýlksel
+2023.01.22 05:55:59  38.2163   28.1553        4.3      -.-  1.1  -.-   KOFUNDERE-ODEMIS (IZMIR)                          Ýlksel
+2023.01.22 05:28:41  38.4997   36.6273        6.8      -.-  3.0  3.1   BUYUKSOBECIMEN-SARIZ (KAYSERI)                    Ýlksel
+2023.01.22 05:14:17  39.4035   40.4010        5.0      -.-  1.7  -.-   GELINPERTEK-YEDISU (BINGOL)                       Ýlksel
+2023.01.22 04:55:15  39.2837   33.1773       11.2      -.-  1.2  -.-   KOSKER-KULU (KONYA)                               Ýlksel
+2023.01.22 04:44:25  39.7485   28.4975        4.9      -.-  1.5  -.-   CALKANDIL-KEPSUT (BALIKESIR)                      Ýlksel
+2023.01.22 04:42:19  39.3843   26.2295       10.5      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 04:15:09  40.7773   30.9413        3.3      -.-  1.3  -.-   ZEKERIYAKOY-GOLYAKA (DUZCE)                       Ýlksel
+2023.01.22 04:11:59  39.6012   28.5950        3.5      -.-  1.4  -.-   DURSUNBEY (BALIKESIR)                             Ýlksel
+2023.01.22 04:08:30  38.0888   30.1012        6.9      -.-  1.9  -.-   TUGAYLI-DINAR (AFYONKARAHISAR)                    Ýlksel
+2023.01.22 03:25:34  39.3890   26.2483        5.5      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 03:12:21  38.4865   39.3203        6.4      -.-  1.8  -.-   GUNEYKOY-SIVRICE (ELAZIG)                         Ýlksel
+2023.01.22 03:02:05  40.5945   41.0740        7.3      -.-  1.9  -.-   AKSU-ISPIR (ERZURUM)                              Ýlksel
+2023.01.22 02:54:29  37.9152   29.1613       16.5      -.-  1.4  -.-   YENIKOY-(DENIZLI)                                 Ýlksel
+2023.01.22 02:35:44  39.3763   26.2323       11.3      -.-  1.3  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 01:40:43  40.1507   31.6503        3.4      -.-  2.1  -.-   ULUKOY-NALLIHAN (ANKARA)                          Ýlksel
+2023.01.22 01:39:02  36.3162   28.2595        5.0      -.-  1.9  -.-   RODOS ADASI (AKDENIZ)                             Ýlksel
+2023.01.22 01:06:31  39.2345   43.5685       16.1      -.-  2.0  -.-   YANKITEPE-ERCIS (VAN)                             Ýlksel
+2023.01.22 01:05:25  39.3790   26.2480        7.7      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 00:59:54  37.3413   29.5063        5.0      -.-  1.4  -.-   KUMAFSARI-ACIPAYAM (DENIZLI)                      Ýlksel
+2023.01.22 00:47:26  39.4790   25.8828        7.0      -.-  1.5  -.-   GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          Ýlksel
+2023.01.22 00:37:04  36.3388   28.2420        5.0      -.-  2.1  -.-   RODOS ADASI (AKDENIZ)                             Ýlksel
+2023.01.22 00:33:23  39.1865   40.5302        5.1      -.-  1.6  -.-   ERBASLAR-ADAKLI (BINGOL)                          Ýlksel
+2023.01.22 00:29:36  39.3917   26.2270        6.8      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        Ýlksel
+2023.01.22 00:29:12  35.0755   35.3687        8.6      -.-  2.4  -.-   DOGU AKDENIZ                                      Ýlksel
+
